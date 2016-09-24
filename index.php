@@ -8,6 +8,12 @@
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
 				integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
+<!--		Google fonts-->
+		<link href="https://fonts.googleapis.com/css?family=Pacifico|Shadows+Into+Light" rel="stylesheet">
+
+
+		<link href="css/style.css" rel="stylesheet" type="text/css" />
+
 		<!-- JQuery -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
 
@@ -20,15 +26,16 @@
 		<header>
 			<div class="container-fluid">
 				<div class="row">
-					<div class="head">
+					<div class="top">
 						<h1>FRESH N LOCAL</h1>
+						<p class="lead">
+							A free farmers market app where you can sell or buy products for free.
+						</p>
 					</div>
 				</div>
 			</div>
 		</header>
-		<p class lead>
-			A free farmers market app where you can sell or buy products for free.
-		</p>
+
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-6 col-md-6">
