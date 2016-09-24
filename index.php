@@ -15,22 +15,22 @@
 	</head>
 	<body>
 		<header>
-			<nav class="navbar navbar-light bg-faded">
-				<ul class="nav navbar-nav">
-					<li class="nav-item active">
-						<a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="#">Features</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="#">Pricing</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="#">About</a>
-					</li>
-				</ul>
-			</nav>
+<!--			<nav class="navbar navbar-light bg-faded">-->
+<!--				<ul class="nav navbar-nav">-->
+<!--					<li class="nav-item active">-->
+<!--						<a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>-->
+<!--					</li>-->
+<!--					<li class="nav-item">-->
+<!--						<a class="nav-link" href="#">Features</a>-->
+<!--					</li>-->
+<!--					<li class="nav-item">-->
+<!--						<a class="nav-link" href="#">Pricing</a>-->
+<!--					</li>-->
+<!--					<li class="nav-item">-->
+<!--						<a class="nav-link" href="#">About</a>-->
+<!--					</li>-->
+<!--				</ul>-->
+<!--			</nav>-->
 		</header>
 		<p class lead>
 			A free farmers market app where you can sell or buy products for free.
