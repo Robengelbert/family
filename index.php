@@ -20,7 +20,7 @@
 		<header>
 			<div class="container-fluid">
 				<div class="row">
-					<div>
+					<div class="head">
 						<h1>FRESH N LOCAL</h1>
 					</div>
 				</div>
