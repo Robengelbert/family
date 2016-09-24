@@ -69,7 +69,7 @@
 			<div class="row">
 				<div class="col-sm-6 col-md-4">
 					<div class="thumbnail">
-						<img src="..." alt="Picture of crafts">
+						<img src="images/artncraft.jpeg" alt="Picture of crafts">
 						<div class="caption">
 							<h3>Arts & Crafts</h3>
 							<p>List all your arts and crafts here</p>
@@ -80,7 +80,7 @@
 
 				<div class="col-sm-6 col-md-4">
 					<div class="thumbnail">
-						<img src="..." alt="...">
+						<img src="images/seeds.jpeg" alt="Picture of seeds">
 						<div class="caption">
 							<h3>Seed swap</h3>
 							<p>List seeds you'd like to swap or give away here</p>
@@ -92,7 +92,7 @@
 
 				<div class="col-sm-6 col-md-4">
 					<div class="thumbnail">
-						<img src="..." alt="Picture of bees">
+						<img src="images/bee.jpeg" alt="Picture of bees">
 						<div class="caption">
 							<h3>Miscellaneous</h3>
 							<p>List all your miscellaneous items here</p>
