@@ -8,11 +8,11 @@
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
 				integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
-<!--		Google fonts-->
+		<!--		Google fonts-->
 		<link href="https://fonts.googleapis.com/css?family=Pacifico|Shadows+Into+Light" rel="stylesheet">
 
 
-		<link href="css/style.css" rel="stylesheet" type="text/css" />
+		<link href="css/style.css" rel="stylesheet" type="text/css"/>
 
 		<!-- JQuery -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
@@ -23,7 +23,7 @@
 				  crossorigin="anonymous"></script>
 	</head>
 	<body>
-		<header>
+
 			<div class="container-fluid">
 				<div class="row">
 					<div class="top">
@@ -34,7 +34,7 @@
 					</div>
 				</div>
 			</div>
-		</header>
+
 
 		<div class="container">
 			<div class="row">
@@ -98,6 +98,13 @@
 						</div>
 					</div>
 				</div>
+			</div>
+		</div>
+		<div class="container-fluid">
+			<div class="row">
+				<footer>
+					&copy; FRESH N LOCAL 2016
+				</footer>
 			</div>
 		</div>
 	</body>
