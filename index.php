@@ -1,45 +1,48 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<meta charset="utf-8" />
+		<meta charset="utf-8"/>
 
 
 		<!-- Latest compiled and minified CSS -->
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+				integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
 		<!-- JQuery -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
 
 		<!-- Latest compiled and minified JavaScript -->
-		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+				  integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+				  crossorigin="anonymous"></script>
 	</head>
 	<body>
 		<header>
-<!--			<nav class="navbar navbar-light bg-faded">-->
-<!--				<ul class="nav navbar-nav">-->
-<!--					<li class="nav-item active">-->
-<!--						<a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>-->
-<!--					</li>-->
-<!--					<li class="nav-item">-->
-<!--						<a class="nav-link" href="#">Features</a>-->
-<!--					</li>-->
-<!--					<li class="nav-item">-->
-<!--						<a class="nav-link" href="#">Pricing</a>-->
-<!--					</li>-->
-<!--					<li class="nav-item">-->
-<!--						<a class="nav-link" href="#">About</a>-->
-<!--					</li>-->
-<!--				</ul>-->
-<!--			</nav>-->
+			<!--			<nav class="navbar navbar-light bg-faded">-->
+			<!--				<ul class="nav navbar-nav">-->
+			<!--					<li class="nav-item active">-->
+			<!--						<a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>-->
+			<!--					</li>-->
+			<!--					<li class="nav-item">-->
+			<!--						<a class="nav-link" href="#">Features</a>-->
+			<!--					</li>-->
+			<!--					<li class="nav-item">-->
+			<!--						<a class="nav-link" href="#">Pricing</a>-->
+			<!--					</li>-->
+			<!--					<li class="nav-item">-->
+			<!--						<a class="nav-link" href="#">About</a>-->
+			<!--					</li>-->
+			<!--				</ul>-->
+			<!--			</nav>-->
 		</header>
 		<p class lead>
 			A free farmers market app where you can sell or buy products for free.
 		</p>
 		<div class="container">
 			<div class="row">
-				<div class="col-sm-6 col-md-4">
+				<div class="col-sm-6 col-md-6">
 					<div class="thumbnail">
-						<img src="Animals.jpeg" alt="Picture of vegetables">
+						<img src="images/vegetables.jpeg" alt="Picture of vegetables">
 						<div class="caption">
 							<h3>Vegetables</h3>
 							<p>List all vegetables here</p>
@@ -49,9 +52,9 @@
 				</div>
 
 
-				<div class="col-sm-6 col-md-4">
+				<div class="col-sm-6 col-md-6">
 					<div class="thumbnail">
-						<img src="..." alt="Picture of fruit">
+						<img src="images/fruit.jpeg" alt="Picture of fruit">
 						<div class="caption">
 							<h3>Fruit</h3>
 							<p>List all fruit's and mellons here</p>
@@ -60,20 +63,10 @@
 					</div>
 				</div>
 
-
-				<div class="col-sm-6 col-md-4">
-					<div class="thumbnail">
-						<img src="..." alt="Picture of bees">
-						<div class="caption">
-							<h3>Miscellaneous</h3>
-							<p>List all your miscellaneous items here</p>
-							<p><a href="#" class="btn btn-success" role="button">Shop</a></p>
-						</div>
-					</div>
-				</div>
 			</div>
 		</div>
-		<div class="container"><div class="row">
+		<div class="container">
+			<div class="row">
 				<div class="col-sm-6 col-md-4">
 					<div class="thumbnail">
 						<img src="..." alt="Picture of crafts">
@@ -99,10 +92,10 @@
 
 				<div class="col-sm-6 col-md-4">
 					<div class="thumbnail">
-						<img src="..." alt="...">
+						<img src="..." alt="Picture of bees">
 						<div class="caption">
-							<h3>IDK</h3>
-							<p>I don't know what to put here</p>
+							<h3>Miscellaneous</h3>
+							<p>List all your miscellaneous items here</p>
 							<p><a href="#" class="btn btn-success" role="button">Shop</a></p>
 						</div>
 					</div>
