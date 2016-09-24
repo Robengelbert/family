@@ -23,7 +23,7 @@
 				  crossorigin="anonymous"></script>
 	</head>
 	<body>
-
+		<header>
 			<div class="container-fluid">
 				<div class="row">
 					<div class="top">
@@ -34,6 +34,7 @@
 					</div>
 				</div>
 			</div>
+		</header>
 
 
 		<div class="container">
